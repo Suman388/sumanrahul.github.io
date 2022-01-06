@@ -22,7 +22,7 @@
         <a href="#">LogIn/SignUp</a>
     </nav>
     <main>
-        <!-- <section>
+         <section>
             <h2>Some Education MEMES</h2>
             <video src="vid.mp4" width="33%" poster="edu1.jpg" controls></video>
             <video src="vid2.mp4" width="33%" poster="edu2.jpg" controls></video>
@@ -33,7 +33,7 @@
             <video src="vid.mp4" width="33%" poster="img4.jpg" controls></video>
             <video src="vid2.mp4" width="33%" poster="img5.jpg" controls></video>
             <video src="vid3.mp4" width="33%" poster="img6.jfif" controls></video>
-        </section> -->
+        </section>
         <section>
             <h2>BHARAT Channel(News) -- Rahul</h2>
             <iframe width="33%" height="25%" src="https://www.youtube.com/embed/tyq6jNr3yCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
