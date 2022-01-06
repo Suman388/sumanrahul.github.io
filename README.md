@@ -72,7 +72,7 @@
         <section>
             <h2>Physic Wallah Sir Channel</h2>
             <a href=https://www.youtube.com/physicswallah" target="_blank" rel="noopener noreferrer">YOUTUBE</a>
-            &nbsp; &nbsp;
+            &nbsp;
             <a href="https://www.facebook.com/physicswallah" target="_blank" rel="noopener noreferrer">FACEBOOK</a>
         </section>
         <section>
